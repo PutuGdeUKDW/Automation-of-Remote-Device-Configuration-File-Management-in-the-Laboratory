@@ -2,6 +2,8 @@
 Skripsi project
 
 
-This requires an FTP server and mysql server.
+This project requires an FTP server and a MySQL server.
 
-In the FTP server directory add another directory inside of it named "default_config/"
+Within the FTP server, create a subdirectory named default_config/ to store configuration files. The full path should be structured as FTP_default/default_config/.
+
+To run the script, execute main.py for simplified menu or instead you could run Skripsi.py direct execution.
