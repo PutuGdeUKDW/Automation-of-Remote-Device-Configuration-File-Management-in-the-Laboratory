@@ -1,0 +1,11 @@
+{
+    "passwordTelnet": "ukdw",
+    "passwordEnable": "ukdw",
+    "userMikrotik": "",
+    "passwordMikrotik": "",
+    "server": "192.168.100.25",
+    "db_server": "192.168.100.25",
+    "db_username": "",
+    "db_password": "",
+    "db_database_name": "labjaringan"
+}
